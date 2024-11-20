@@ -8,6 +8,7 @@ ___
 💡 Tenho curiosidade por novas tecnologias e idiomas.<br>
 🚀 Estou sempre em busca de crescimento pessoal e profissional.
 
+___
 ## 📊 Estatísticas do GitHub  
 
 <div align="center" style="margin: 20px 0;">

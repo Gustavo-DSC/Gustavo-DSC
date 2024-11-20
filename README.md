@@ -1,19 +1,12 @@
 # 🌟 Bem-vindo ao meu GitHub!
-
+___
 ### Sobre Mim  
-
-<div style="display: flex; align-items: center; gap: 20px;">
-  <p style="flex: 1; font-size: 16px; line-height: 1.5;">
-    👋 Olá! Meu nome é Gustavo.
-    <br>🎓 Sou estudante de <strong>Sistemas de Informação</strong> na <strong>UFRN CERES</strong>.  
-    <br>🌱 Busco constantemente evoluir minhas habilidades técnicas.  
-    <br>💡 Tenho curiosidade por novas tecnologias e idiomas.
-    <br>🚀 Estou sempre em busca de crescimento pessoal e profissional.
-  </p>
-   <img src="img/img2.png" alt="Imagem do Gustavo" style="width: 150px; height: auto; border-radius: 10px;">
-</div>
-
----
+<img align="right" alt="Imagem do Gustavo" src="img/img2.png" width="175" height="auto"/>
+👋 Olá! Meu nome é Gustavo.<br>
+🎓 Sou estudante de Sistemas de Informação na UFRN CERES.<br>
+🌱 Busco constantemente evoluir minhas habilidades técnicas.<br>
+💡 Tenho curiosidade por novas tecnologias e idiomas.<br>
+🚀 Estou sempre em busca de crescimento pessoal e profissional.
 
 ## 📊 Estatísticas do GitHub  
 
@@ -31,4 +24,3 @@
     style="border-radius: 10px; margin: 10px;"
   />
 </div>
----

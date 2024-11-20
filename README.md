@@ -10,6 +10,7 @@
     <br>💡 Tenho curiosidade por novas tecnologias e idiomas.
     <br>🚀 Estou sempre em busca de crescimento pessoal e profissional.
   </p>
+   <img src="img/img2.png" alt="Imagem do Gustavo" style="width: 150px; height: auto; border-radius: 10px;">
 </div>
 
 ---

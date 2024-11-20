@@ -1,16 +1,33 @@
-## Hi there 👋
+# 🌟 Bem-vindo ao meu GitHub!
 
-<!--
-**Gustavo-DSC/Gustavo-DSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre Mim  
 
-Here are some ideas to get you started:
+<div style="display: flex; align-items: center; gap: 20px;">
+  <p style="flex: 1; font-size: 16px; line-height: 1.5;">
+    👋 Olá! Meu nome é Gustavo.
+    <br>🎓 Sou estudante de <strong>Sistemas de Informação</strong> na <strong>UFRN CERES</strong>.  
+    <br>🌱 Busco constantemente evoluir minhas habilidades técnicas.  
+    <br>💡 Tenho curiosidade por novas tecnologias e idiomas.
+    <br>🚀 Estou sempre em busca de crescimento pessoal e profissional.
+  </p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 Estatísticas do GitHub  
+
+<div align="center" style="margin: 20px 0;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Gustavo-DSC&show_icons=true&theme=radical&hide_title=false&include_all_commits=true&count_private=true&custom_title=Minhas%20Estatísticas!" 
+    alt="Estatísticas do GitHub" 
+    width="400" 
+    style="border-radius: 10px; margin: 10px;"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-DSC&layout=compact&theme=radical&hide=html&langs_count=6" 
+    alt="Linguagens mais usadas" 
+    width="400"
+    style="border-radius: 10px; margin: 10px;"
+  />
+</div>
+---

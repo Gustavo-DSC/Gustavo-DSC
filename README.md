@@ -12,14 +12,16 @@ ___
 
 <div align="center" style="margin: 20px 0;">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Gustavo-DSC&show_icons=true&theme=radical&hide_title=false&include_all_commits=true&count_private=true&custom_title=Minhas%20Estatísticas!" 
-    alt="Estatísticas do GitHub" 
+    src="https://github-readme-stats.vercel.app/api?username=Gustavo-DSC&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300"
+    alt="Estatísticas do GitHub"
+    height="150em"
     width="400" 
     style="border-radius: 10px; margin: 10px;"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-DSC&layout=compact&theme=radical&hide=html&langs_count=6" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-DSC&layout=compact&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&langs_count=6&cache_seconds=2300" 
     alt="Linguagens mais usadas" 
+    height="150em"
     width="400"
     style="border-radius: 10px; margin: 10px;"
   />

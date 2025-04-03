@@ -32,7 +32,7 @@ Sou Gustavo, estudante de Sistemas de Informação na UFRN CERES. Gosto de explo
 ## 📊 GitHub Chronicles
 
 </div> 
-<div align="center" style="margin: 20px 0;">ㅤㅤ
+<div align="center" style="margin: 20px 0;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Gustavo-DSC&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300"
     alt="GitHub Stats"
@@ -40,7 +40,6 @@ Sou Gustavo, estudante de Sistemas de Informação na UFRN CERES. Gosto de explo
     width="400" 
     style="border-radius: 10px; margin: 10px; box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"
   />
-  ㅤ
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-DSC&layout=compact&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&langs_count=6&cache_seconds=2300" 
     alt="Most Used Languages" 

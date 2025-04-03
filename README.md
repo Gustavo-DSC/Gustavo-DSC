@@ -27,20 +27,6 @@ Sou Gustavo, estudante de Sistemas de Informação na UFRN CERES. Gosto de explo
 ---
 
 <img src="img/img4.png" width="100%" alt="Ornamental Divider"/>
-=======
-# 🌟 Welcome to my GitHub!
-___
-### About Me  
-<img align="right" alt="Gustavo's Picture" src="img/img2.png" width="175" height="auto"/>
-👋 Hi! My name is Gustavo.<br>
-🎓 I'm an Information Systems student at UFRN CERES.<br>
-🌱 I'm constantly seeking to improve my technical skills.<br>
-💡 I'm curious about new technologies and languages.<br>
-🚀 I'm always striving for personal and professional growth.
-
-___
-## 📊 GitHub Stats  
->>>>>>> 7a1ab6f18dcf6bfb984809eacd2902abce46198c
 
 <div style="font-family: 'Times New Roman', cursive; padding: 15px; border-left: 3px solidrgb(163, 179, 12); text-align: justify;">
 
@@ -64,7 +50,6 @@ ___
     style="border-radius: 10px; margin: 10px; box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);"
   />
 </div>
-<<<<<<< HEAD
 
 ---
 
@@ -75,5 +60,4 @@ ___
 **Gustavo Douglas Silva Cruz**
 
 </div>  
-=======
->>>>>>> 7a1ab6f18dcf6bfb984809eacd2902abce46198c
+

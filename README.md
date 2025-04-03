@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <img src="img/img4.png" width="100%" alt="Ornamental Header"/>
 
 <div style="font-family: 'Times New Roman', cursive; padding: 15px; border-left: 3px solidrgb(163, 179, 12); text-align: justify;">  
@@ -33,7 +32,7 @@ Sou Gustavo, estudante de Sistemas de Informação na UFRN CERES. Gosto de explo
 ## 📊 GitHub Chronicles
 
 </div> 
-<div align="center" style="margin: 20px 0;">ㅤㅤㅤㅤ
+<div align="center" style="margin: 20px 0;">ㅤㅤ
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Gustavo-DSC&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300"
     alt="GitHub Stats"
